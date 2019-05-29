@@ -1,4 +1,4 @@
-## SAARC website
+## SARC website
 
 saarc alumni connect portal initial commits
 
